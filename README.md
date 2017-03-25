@@ -7,5 +7,6 @@ For futher details, refer to CookBook.md.
 
 ## Required R packages
 
-install.package("dplyr") 
+install.package("dplyr")
+
 install.package("tidyr")
