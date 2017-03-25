@@ -5,7 +5,7 @@ The repo contains one R script, run_analysis.R, which will create a new tidy dat
 
 For futher details, refer to CookBook.md.
 
-##Required R packages
+## Required R packages
 
 install.package("dplyr")
 install.package("tidyr")
